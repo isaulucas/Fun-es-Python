@@ -1,5 +1,4 @@
-#Exercício 13: Escreva uma função para dividir uma determinada string em hífens e exibir cada 
-substring.
+#Exercício 13: Escreva uma função para dividir uma determinada string em hífens e exibir cada substring.
 
 print("digite uma frase:")
 
